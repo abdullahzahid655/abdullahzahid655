@@ -23,7 +23,7 @@
   <a href="https://github.com/abdullahzahid655" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-abdullahzahid655-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:abdullahzahid655@gmail.com">
+  <a href="mailto:abdullahzahid6555@gmail.com">
     <img src="https://img.shields.io/badge/Email-abdullahzahid655-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=abdullahzahid655&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" />
